@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Bubinger-AI",
+  "description": "Entwickelt von ch.8uechner"
+}
